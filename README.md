@@ -74,7 +74,7 @@ class FuncionarioTerceirizado extends Funcionario {
 
 ## 2) Patterns
 
-### 2.1) Criacional - Singleton
+### 2.1) Criacional - Singleton -> [commit](https://github.com/carlosarraes/cc/commit/dddeada72e325b07788dc5ab2e98370bbd2f1cf3)
 
 ```java
 public class FuncionarioSingleton {
@@ -125,7 +125,7 @@ public class Main {
 }
 ```
 
-### 2.2) Criacional - Factory
+### 2.2) Criacional - Factory -> [commit](https://github.com/carlosarraes/cc/commit/3c6e2e3f165eccd0b27bda3dde5e17a60fc2fcee)
 
 ```java
 public class FuncionarioFactory {
@@ -157,7 +157,7 @@ public class Main {
 
 ```
 
-### 2.3) Estrutural - Adapter
+### 2.3) Estrutural - Adapter -> [commit](https://github.com/carlosarraes/cc/commit/da428ab34d7f019f44b20b9ae4f50bc915418e98)
 
 ```java
 public interface SistemaDeSalarios {
@@ -204,7 +204,7 @@ public class Main {
 
 ```
 
-### 2.4) Comportamental - Strategy
+### 2.4) Comportamental - Strategy -> [commit](https://github.com/carlosarraes/cc/commit/98cb687a1f3478c31536b4af6f1c2fe3eb60617f)
 
 ```java
 public interface ReajusteSalarial {
