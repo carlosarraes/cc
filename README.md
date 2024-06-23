@@ -1,6 +1,10 @@
 # Clean Code e Padrões de Projeto
 
-Repositório pode ser acessado [clicando aqui](url).
+Este projeto tem como objetivo demonstrar a aplicação de princípios de Clean Code e Padrões de Projeto em uma aplicação Java que simula a gestão de funcionários de uma empresa.
+
+Repositório pode ser acessado [clicando aqui](https://github.com/carlosarraes/cc).
+
+PS.: O pdf corta um pouco os code blocks, para melhor visualização, recomendo ver o readme no github.
 
 ## 1) Estrutura
 
